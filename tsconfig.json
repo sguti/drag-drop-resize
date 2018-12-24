@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "dragy": [
+        "dist/dragy"
+      ],
+      "dragy/*": [
+        "dist/dragy/*"
+      ]
+    }
   }
 }

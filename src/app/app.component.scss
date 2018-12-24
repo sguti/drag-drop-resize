@@ -1,0 +1,18 @@
+.draggable-item {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border: 2px solid blueviolet;
+  display: inline-block;
+}
+.item2 {
+  background: blue;
+}
+.drop-zone {
+  height: 300px;
+  width: 500px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  border: 2px dotted black;
+}

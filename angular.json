@@ -133,6 +133,41 @@
           }
         }
       }
+    },
+    "dragy": {
+      "root": "projects/dragy",
+      "sourceRoot": "projects/dragy/src",
+      "projectType": "library",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-ng-packagr:build",
+          "options": {
+            "tsConfig": "projects/dragy/tsconfig.lib.json",
+            "project": "projects/dragy/ng-package.json"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/dragy/src/test.ts",
+            "tsConfig": "projects/dragy/tsconfig.spec.json",
+            "karmaConfig": "projects/dragy/karma.conf.js"
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/dragy/tsconfig.lib.json",
+              "projects/dragy/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
     }
   },
   "defaultProject": "drag-drop-resize"
