@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { DragyModule, DropZoneComponent, DraggableDirective, DroppableDirective, IWidgetProjection, DragData, DraggableDirectiveConfig, DropSuccessSyntheticEvent, DropZoneState, DropZoneItem, ViewContainerItem, GComponentRegistryService } from './public_api';
+export { DropZoneComponent as ɵc } from './lib/components';
+export { DraggableDirective as ɵa, DroppableDirective as ɵb } from './lib/directives';
+export { GComponentFactoryService as ɵd, GInternalRegistryService as ɵe } from './lib/services';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZHJhZ3kuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9kcmFneS8iLCJzb3VyY2VzIjpbImRyYWd5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSxvUEFBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLGlCQUFpQixJQUFJLEVBQUUsRUFBQyxNQUFNLGtCQUFrQixDQUFDO0FBQ3pELE9BQU8sRUFBQyxrQkFBa0IsSUFBSSxFQUFFLEVBQUMsa0JBQWtCLElBQUksRUFBRSxFQUFDLE1BQU0sa0JBQWtCLENBQUM7QUFDbkYsT0FBTyxFQUFDLHdCQUF3QixJQUFJLEVBQUUsRUFBQyx3QkFBd0IsSUFBSSxFQUFFLEVBQUMsTUFBTSxnQkFBZ0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9wdWJsaWNfYXBpJztcblxuZXhwb3J0IHtEcm9wWm9uZUNvbXBvbmVudCBhcyDJtWN9IGZyb20gJy4vbGliL2NvbXBvbmVudHMnO1xuZXhwb3J0IHtEcmFnZ2FibGVEaXJlY3RpdmUgYXMgybVhLERyb3BwYWJsZURpcmVjdGl2ZSBhcyDJtWJ9IGZyb20gJy4vbGliL2RpcmVjdGl2ZXMnO1xuZXhwb3J0IHtHQ29tcG9uZW50RmFjdG9yeVNlcnZpY2UgYXMgybVkLEdJbnRlcm5hbFJlZ2lzdHJ5U2VydmljZSBhcyDJtWV9IGZyb20gJy4vbGliL3NlcnZpY2VzJzsiXX0=

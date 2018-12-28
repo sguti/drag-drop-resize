@@ -1,0 +1,21 @@
+{
+  "name": "dragy",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/dragy.umd.js",
+  "module": "fesm5/dragy.js",
+  "es2015": "fesm2015/dragy.js",
+  "esm5": "esm5/dragy.js",
+  "esm2015": "esm2015/dragy.js",
+  "fesm5": "fesm5/dragy.js",
+  "fesm2015": "fesm2015/dragy.js",
+  "typings": "dragy.d.ts",
+  "metadata": "dragy.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

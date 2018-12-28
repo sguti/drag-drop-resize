@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { GComponentRegistryService } from "./component-registry.service";
+export { GComponentFactoryService } from "./component-factory.service";
+export { GInternalRegistryService } from "./internal-registry.service";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9kcmFneS8iLCJzb3VyY2VzIjpbImxpYi9zZXJ2aWNlcy9pbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsMENBQWMsOEJBQThCLENBQUM7QUFDN0MseUNBQWMsNkJBQTZCLENBQUM7QUFDNUMseUNBQWMsNkJBQTZCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgKiBmcm9tIFwiLi9jb21wb25lbnQtcmVnaXN0cnkuc2VydmljZVwiO1xyXG5leHBvcnQgKiBmcm9tIFwiLi9jb21wb25lbnQtZmFjdG9yeS5zZXJ2aWNlXCI7XHJcbmV4cG9ydCAqIGZyb20gXCIuL2ludGVybmFsLXJlZ2lzdHJ5LnNlcnZpY2VcIjtcclxuIl19
